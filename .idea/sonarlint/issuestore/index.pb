@@ -1,5 +1,21 @@
 
-C
-UberApp/settings.py,4\a\4a3930e0ce56c70d9cd43e8fcf2492f57dacc298
-?
-UberApp/urls.py,d\f\df05340fd93af59b4f6716bd5f7b76107ac29f08
+T
+$taxi-app/server/taxi/trips/models.py,a\f\af69badb20d38ee30b9b1bc8225631f94822db24
+S
+#taxi-app/server/taxi/trips/admin.py,6\c\6cade8f642abc774eb36e78f30c47651b0507e22
+T
+$taxi-app/server/taxi/taxi/routing.py,e\d\edc966090970d81e13daad1f292f3a711b9eb07d
+Q
+!taxi-app/server/taxi/taxi/asgi.py,3\3\33a8f3fec549af813f57975361897fceaec332e4
+U
+%taxi-app/server/taxi/taxi/settings.py,8\c\8c01987726016a6a210e86de61e0fe4265a52d4a
+\
+,taxi-app/server/taxi/trips/tests/__init__.py,7\c\7cb0ee7f554bfead0ab6e68b91210b35b01cde0e
+Y
+)taxi-app/server/taxi/trips/serializers.py,b\e\be12bdeb249aa90cdcbe938b8f790d82a83185b7
+]
+-taxi-app/server/taxi/trips/tests/test_http.py,d\e\de97bbb72f7768d4e27128b424a5af4eb122c45b
+S
+#taxi-app/server/taxi/trips/views.py,1\9\194cb6d3ba07d9d03c1c32819eb8bbcee937d7c9
+Q
+!taxi-app/server/taxi/taxi/urls.py,d\3\d3e9ff26be3dd5ad01bd3111114dd4c25635194a
