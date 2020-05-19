@@ -19,3 +19,9 @@ S
 #taxi-app/server/taxi/trips/views.py,1\9\194cb6d3ba07d9d03c1c32819eb8bbcee937d7c9
 Q
 !taxi-app/server/taxi/taxi/urls.py,d\3\d3e9ff26be3dd5ad01bd3111114dd4c25635194a
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+R
+"taxi-app/server/taxi/trips/urls.py,3\f\3f2418a2cd0fb1d1b49e3b3620ce018b455d273d
+b
+2taxi-app/server/taxi/trips/tests/test_websocket.py,3\0\303e659dcc3bd45cb9845fa85d7f84bc9f290150
